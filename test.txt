@@ -1,0 +1,3 @@
+This is my first time trying vi on mac. I wish my course included
+more specific instructions about what is going on, but I had to figure it out, and here I am!
+
